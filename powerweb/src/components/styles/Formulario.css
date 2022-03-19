@@ -1,0 +1,6 @@
+.Formulario {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
